@@ -12,7 +12,7 @@ import static org.openqa.selenium.By.partialLinkText;
 
 @Feature("Issues")
 @Owner("a.dankov")
-public class LambdaIssueTest {
+public class LambdaStepsIssueTest {
 
     private final static String REPOSITORY = "eroshenkoam/allure-example";
     private final static String ISSUE_NAME = "С Новым Годом (2022)";
